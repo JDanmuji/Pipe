@@ -29,7 +29,7 @@ function App() {
     return (
         <div className="App">
             <header>  
-                <img src={ img1 } style={{ width: '200px' }}/>   
+                <img src={ img1 } style={{ width: '200px' }} alt='img1'/>   
                 <h1>Test-1</h1>          
                 <ul style={{ listStyle: 'none' }}>
                   {
